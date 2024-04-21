@@ -13,7 +13,7 @@
    
   ## Q4 Express Response?
    In Express.js, the "res" object, representing the HTTP response, is used to send data back to the client. In an Express.js application, sending a response to a client is a 
-   fundamental operation. Express provides various methods to send responses back to clients, such as sending plain text, HTML, JSON, or files.  [read more] (https://www.instanests.com/tech/express/response)
+   fundamental operation. Express provides various methods to send responses back to clients, such as sending plain text, HTML, JSON, or files. [read more](https://www.instanests.com/tech/express/response)
    
   ## Q5 Express Get Request?
    In Express.js, handling HTTP GET requests is a fundamental aspect of building web applications. Express provides a straightforward way to define routes for handling these requests. [read more](https://www.instanests.com/tech/express/get-request)
@@ -38,7 +38,7 @@
    In Express.js, We can work with cookies to store and retrieve information on the client side. Cookies are small pieces of data sent from a server and stored on the client's browser. [read more](https://www.instanests.com/tech/express/cookies)
    
   ## Q12 Express Template?
-   In Express.js, templates are typically used to render dynamic content and generate HTML pages dynamically. There are several template engines available for Express.js, such as Pug (formerly Jade), EJS (Embedded JavaScript), Handlebars, and more. [read more]  (https://www.instanests.com/tech/express/template)
+   In Express.js, templates are typically used to render dynamic content and generate HTML pages dynamically. There are several template engines available for Express.js, such as Pug (formerly Jade), EJS (Embedded JavaScript), Handlebars, and more. [read more](https://www.instanests.com/tech/express/template)
    
   ## Q13 Express Static Files Serving?
    In Express.js, we can serve static files (such as CSS, images, or client-side Javascript) using the "express.static" middleware. This middleware function is based on the serve-static module. [read more](https://www.instanests.com/tech/express/static-files-serving)
